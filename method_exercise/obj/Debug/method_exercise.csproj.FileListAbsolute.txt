@@ -1,0 +1,8 @@
+C:\Git_Repos\method_exercise\method_exercise\obj\Debug\method_exercise.csproj.AssemblyReference.cache
+C:\Git_Repos\method_exercise\method_exercise\obj\Debug\method_exercise.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\method_exercise\method_exercise\obj\Debug\method_exercise.csproj.CoreCompileInputs.cache
+C:\Git_Repos\method_exercise\method_exercise\bin\Debug\method_exercise.exe.config
+C:\Git_Repos\method_exercise\method_exercise\bin\Debug\method_exercise.exe
+C:\Git_Repos\method_exercise\method_exercise\bin\Debug\method_exercise.pdb
+C:\Git_Repos\method_exercise\method_exercise\obj\Debug\method_exercise.exe
+C:\Git_Repos\method_exercise\method_exercise\obj\Debug\method_exercise.pdb
